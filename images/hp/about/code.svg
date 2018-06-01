@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="380px" height="269px" viewBox="0 0 380 269" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#E8E8E8">
+            <g id="code" transform="translate(0.000000, 36.000000)">
+                <g id="Page-1">
+                    <g>
+                        <g id="code">
+                            <path d="M12.7632774,111.979019 L-3.58113539e-12,99.1921714 L99.0093287,0 L124.535884,25.5736952 L51.0531095,99.1921714 L124.535884,172.810647 L99.0093287,198.384343 L12.7632774,111.979019 L12.7632774,111.979019 Z M366.772605,111.979019 L379.535883,99.1921714 L280.526554,0 L255,25.5736952 L328.482774,99.1921714 L255,172.810647 L280.526554,198.384343 L366.772605,111.979019 L366.772605,111.979019 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle-1" transform="translate(189.812383, 134.500000) rotate(75.000000) translate(-189.812383, -134.500000) " x="55" y="119" width="269.624765" height="31"></rect>
+        </g>
+    </g>
+</svg>
