@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="23px" viewBox="0 0 25 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="1.77635684e-15" width="25" height="23" rx="1"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="23" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <use id="Rectangle" stroke="#000000" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+            <g id="Group-2" transform="translate(8.000000, 8.000000)">
+                <polygon id="Path" fill="#000000" points="7.3583098 2.3019 7.3583098 7.8465 8.5242448 7.8465 8.5242448 2.3019"></polygon>
+                <polygon id="Path" fill="#000000" points="2.5852028 0.1615 0.2338028 7.8465 1.4290328 7.8465 2.0930488 5.5869 4.4444488 5.5869 5.1377598 7.8465 6.3622848 7.8465 4.0108848 0.1615 2.5852028 0.1615"></polygon>
+                <path d="M3.2472658,1.1672 L3.2687558,1.1672 C3.3792668,1.6394 3.5089388,2.1804 3.6495878,2.6827 L4.2530628,4.6924 L2.2727308,4.6924 L2.8859688,2.6729 C3.0165728,2.2008 3.1367618,1.6394 3.2472728,1.1672 L3.2472658,1.1672 Z" id="Path" fill="#FFFFFF"></path>
+                <path d="M7.9520188,0.1005 C7.5501628,0.1005 7.2684728,0.3922 7.2684728,0.7841 C7.2684728,1.1557 7.5403988,1.4578 7.9422528,1.4578 C8.3642018,1.4578 8.6238478,1.1557 8.6238458,0.7841 C8.6238458,0.3922 8.3538738,0.1005 7.9520188,0.1005 L7.9520188,0.1005 Z" id="Path" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>
