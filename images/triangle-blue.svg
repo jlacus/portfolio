@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="7px" viewBox="0 0 9 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>triangle-blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="triangle-blue" fill-rule="nonzero" fill="#838789">
+            <path d="M4.05261011,0.284474888 C4.30000011,-0.0937701152 4.69971011,-0.0958783457 4.94847011,0.284474888 L8.55261011,5.79512685 C8.80000011,6.17337186 8.55423011,6.48000002 8.00300011,6.48000002 L0.998080108,6.48000002 C0.447160108,6.48000002 0.199710108,6.17548009 0.448470108,5.79512685 L4.05261011,0.284474888 Z" id="Triangle" transform="translate(4.500270, 3.240000) rotate(180.000000) translate(-4.500270, -3.240000) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+.loadie {
+	position: absolute;
+	top: -100px;
+	left: 0;
+	background-color: #00A2FF;
+	width: 0;
+	height: 2px;
+	-webkit-transition: width 0.25s ease-out;
+	z-index: 999999999999999;
+}
